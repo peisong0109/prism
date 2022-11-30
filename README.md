@@ -33,8 +33,11 @@ module die
 endmodule
 ```
 
+![image](https://github.com/peisong0109/prism/blob/main/screenshot/example.png)
+
 Choose Properties, double click the blank area and type:
 
+![image](https://github.com/peisong0109/prism/blob/main/screenshot/property.png)
 
 Choose the newly added property and choose verify (or press F5), the details of this property will be shown.
 
