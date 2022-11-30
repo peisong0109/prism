@@ -39,8 +39,15 @@ Choose Properties, double click the blank area and type:
 
 ![image](https://github.com/peisong0109/prism/blob/main/screenshot/property.png)
 
+```
+P=? [F s=7 & d=6]
+```
+
+![image](https://github.com/peisong0109/prism/blob/main/screenshot/editor.png)
+
 Choose the newly added property and choose verify (or press F5), the details of this property will be shown.
 
+![image](https://github.com/peisong0109/prism/blob/main/screenshot/details.png)
 
 More functions and recently developed features about PRISM can be found at:
 
