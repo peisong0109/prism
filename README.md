@@ -5,9 +5,12 @@ prism ia a Probabilistic Symbolic Model Checker.
 ### 1. Download JDK/JRE
 https://www.oracle.com/java/technologies/downloads/#java17
 
+![image](https://github.com/peisong0109/prism/blob/main/screenshot/jdk.png)
 
 ### 2. Download and install PRISM
 http://www.prismmodelchecker.org/download.php
+
+![image](https://github.com/peisong0109/prism/blob/main/screenshot/prism.png)
 
 ### 3. Open PRISM 4.7 
 
