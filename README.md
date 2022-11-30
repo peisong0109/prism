@@ -16,6 +16,8 @@ http://www.prismmodelchecker.org/download.php
 
 ### 3. Open PRISM 4.7 
 
+http://www.prismmodelchecker.org/tutorial/die.php
+
 Copy the following code:
 ```
 dtmc
