@@ -2,6 +2,8 @@
 
 prism ia a Probabilistic Symbolic Model Checker.
 
+This tutorial will introduce you to the PRISM tool.
+
 ### 1. Download JDK/JRE
 https://www.oracle.com/java/technologies/downloads/#java17
 
